@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    font-size: 45px;
+    font-style: revert-layer;
+}
+.start{
+    font-size: x-small;
+}
